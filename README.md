@@ -1,3 +1,3 @@
 ## Desafio DIO Cibersecurity
 
-Criação de um Ransoware utilizando linguagem Python.
+Criação de um Ransomware utilizando linguagem Python.
